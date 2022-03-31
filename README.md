@@ -1,8 +1,4 @@
-👋 <b>Hi, I’m José Carlos</b>
 
-- <p>A passionate learner about technologies</p>
-- <p>Full Stack Developer Bootcamp graduate from <a href="https://www.lewagon.com">Le Wagon</a>
-- <p>Ruby and Ruby on Rails are my main study tools at the moment</p>
 
 <div align="center">
   <a href="https://github.com/JoseJCCarlos">
